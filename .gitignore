@@ -23,6 +23,7 @@ build/
 packages/project/
 packages/.code2llm_cache/
 .idea/
+.cursor/
 operator/
 workflows/
 !/.github/
